@@ -1,4 +1,4 @@
 
 puts "what is your name?"
-name_is = "Josh"
-puts "Hi Josh, your awesome" if name_is == "Josh"
+name_is = "Dave"
+puts "Hi you are not Josh" unless name_is == "Josh"
